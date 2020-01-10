@@ -1,7 +1,7 @@
 # Code créatif Module 03 3D
 
 ## version
-v 0.0.2
+v 0.0.3
 
 ## objectif
 
@@ -23,7 +23,7 @@ sous-dossier : m##
 sous-dossier : m##_ex##_nom
 fichier :  m##_ex##_nom.pde
 ```
-* exemple `Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
+* exemple `Maurice_Dupont/m00/m00_ex00_truc/m00_ex00_truc.pde`
 
 
 contraintes : 
